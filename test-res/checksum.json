@@ -1,4 +1,5 @@
 {
-  "version": 2,
-  "path": "update.zip"
+  "version": 3,
+  "path": "update.zip",
+  "changeFetchUrl": "https://raw.githubusercontent.com/dr-web-house/artifacts/raw/master/test-res/checksum.json"
 }
