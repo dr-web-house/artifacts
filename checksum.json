@@ -1,0 +1,18 @@
+{
+	"version": 4,
+	"path": "test-res/update.zip",
+	"versions": {
+		"a": {
+			"version": 5,
+			"path": "a.zip"
+		},
+		"b": {
+			"version": 1,
+			"path": "b.zip"
+		},
+		"console": {
+			"version": 10,
+			"path": "console.zip"
+		}
+	}
+}
