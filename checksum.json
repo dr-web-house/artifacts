@@ -1,4 +1,8 @@
 {
-	"version": 3,
-	"path": "webui-static.zip"
+	"versions": {
+		"credit-appl": {
+			"version": 0,
+			"path": "credit-appl.zip"
+		}
+	}
 }
