@@ -1,20 +1,16 @@
 {
 	"versions": {
-		"credit-appl": {
-			"version": 7,
-			"path": "credit-appl.zip"
-		},
-		"console": {
-			"version": 11,
-			"path": "console.zip"
-		},
 		"risk": {
 			"version": 24,
 			"path": "risk.zip"
 		},
 		"employee-loan": {
-			"version": 24,
+			"version": 82,
 			"path": "employee-loan.zip"
+		},
+		"byj": {
+			"version": 204,
+			"path": "byj.zip"
 		}
 	}
 }
