@@ -1,5 +1,10 @@
 {
 	"version": 5,
 	"path": "byj.zip",
-	"versions": []
+	"versions": {
+		"employee-loan": {
+			"version": "1",
+			"path": "employee-loan.zip"
+		}
+	}
 }
