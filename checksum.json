@@ -5,6 +5,10 @@
 		"employee-loan": {
 			"version": "1",
 			"path": "employee-loan.zip"
+		},
+		"byj": {
+			"version": 1,
+			"path": "byj.zip"
 		}
 	}
 }
