@@ -3,16 +3,12 @@
 	"path": "test-res/update.zip",
 	"versions": {
 		"a": {
-			"version": 5,
+			"version": 6,
 			"path": "a.zip"
 		},
 		"b": {
 			"version": 2,
 			"path": "b.zip"
-		},
-		"console": {
-			"version": 11,
-			"path": "console.zip"
 		}
 	}
 }
