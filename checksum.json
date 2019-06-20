@@ -9,8 +9,20 @@
 			"path": "employee-loan.zip"
 		},
 		"byj": {
-			"version": 211,
+			"version": 333,
 			"path": "byj.zip"
+		},
+		"admin": {
+			"version": 30,
+			"path": "admin.zip"
+		},
+		"admin-bcl": {
+			"version": 12,
+			"path": "admin-bcl.zip"
+		},
+		"bcl": {
+			"version": 50,
+			"path": "bcl.zip"
 		}
 	}
 }
