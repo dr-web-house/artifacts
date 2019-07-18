@@ -11,6 +11,10 @@
 		"byj": {
 			"version": 227,
 			"path": "byj.zip"
+		},
+		"remote-deploy-test": {
+			"version": 4,
+			"path": "remote-deploy-test.zip"
 		}
 	}
 }
