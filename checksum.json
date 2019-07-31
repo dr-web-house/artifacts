@@ -19,6 +19,10 @@
 		"admin": {
 			"version": 30,
 			"path": "admin.zip"
+		},
+		"test123321": {
+			"version": 1,
+			"path": "test123321.zip"
 		}
 	}
 }
