@@ -17,7 +17,7 @@
 			"path": "remote-deploy-test.zip"
 		},
 		"admin": {
-			"version": 30,
+			"version": 31,
 			"path": "admin.zip"
 		},
 		"test123321": {
