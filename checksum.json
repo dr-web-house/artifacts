@@ -23,6 +23,10 @@
 		"test123321": {
 			"version": 4,
 			"path": "test123321.zip"
+		},
+		"admin-bcl": {
+			"version": 1,
+			"path": "admin-bcl.zip"
 		}
 	}
 }
