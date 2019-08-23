@@ -29,7 +29,7 @@
 			"path": "admin-bcl.zip"
 		},
 		"bcl": {
-			"version": 4,
+			"version": 5,
 			"path": "bcl.zip"
 		}
 	}
