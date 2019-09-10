@@ -15,6 +15,10 @@
 		"admin-bcl": {
 			"version": 1,
 			"path": "admin-bcl.zip"
+		},
+		"bcl": {
+			"version": 1,
+			"path": "bcl.zip"
 		}
 	}
 }
