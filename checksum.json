@@ -9,6 +9,10 @@
 		"b": {
 			"version": 2,
 			"path": "b.zip"
+		},
+		"byj": {
+			"version": 1,
+			"path": "byj.zip"
 		}
 	}
 }
